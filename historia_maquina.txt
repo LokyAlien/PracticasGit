@@ -1,2 +1,4 @@
 Se crea un historia en esta maquina con el fin de practicar un proceso en donde 
-ahora podemos trabajar en conjuto para aprender más
+ahora podemos trabajar en conjuto para aprender más.
+
+En esta maquina 2 unicamente sera de referencia para un trabajo exterior 
